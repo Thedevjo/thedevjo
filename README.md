@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Allot;)**
 
-- 🌱 I’m currently learning **Python and Node.js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [#soon](#soon)
 
