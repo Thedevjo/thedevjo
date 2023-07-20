@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [#soon](#soon)
-
-- 📝 I regularly write articles on [#soon](#soon)
+- 👨‍💻 All of my projects are available at https://joaquim.tech
 
 - 📫 How to reach me **contact@joaquim.tech**
 
