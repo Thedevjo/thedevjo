@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Allot;)**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **To much**
 
 - 👨‍💻 All of my projects are available at https://joaquim.tech
 
