@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Joaquim</h1>
+<h1 align="center">Hi 👋, I'm Max</h1>
 
 - 🔭 I’m currently working on **Allot;)**
 
 - 🌱 I’m currently learning **To much**
 
-- 👨‍💻 All of my projects are available at https://joaquim.tech
+- 👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me **contact@joaquim.tech**
+- 📫 How to reach me **contact@customcodesupport.nl**
 
 
 <h3 align="left">Connect with me:</h3>
