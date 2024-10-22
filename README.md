@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
+<h1 align="center">Hi 👋, I'm Joaquim</h1>
 
-- 🔭 I’m currently working on **Allot;)**
-
-- 🌱 I’m currently learning **To much**
-
-- 👨‍💻 All of my projects are available at 
+- 🔭 I’m currently working on **School Tracking System**
 
 - 📫 How to reach me **contact@customcodesupport.nl**
 
