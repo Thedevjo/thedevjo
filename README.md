@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jothedev@livestatustracker.com**
 
-- There are no stats **because most repositorys are private 😛**
+- There are no stats **because most repositories are private 😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
